@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://ibb.co/TkTqJ7j"><img src="https://i.ibb.co/hyM1r4Q/octocat-1714126517426.png" alt="octocat-1714126517426" border="0" /></a>
+  <a href="https://ibb.co/TkTqJ7j"><img src="https://i.ibb.co/hyM1r4Q/octocat-1714126517426.png" height="150" alt="octocat-1714126517426" border="0" /></a>
 </div>
 
 ###
